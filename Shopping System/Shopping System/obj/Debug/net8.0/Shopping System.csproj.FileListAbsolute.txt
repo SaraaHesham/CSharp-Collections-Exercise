@@ -1,0 +1,14 @@
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\bin\Debug\net8.0\Shopping System.exe
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\bin\Debug\net8.0\Shopping System.deps.json
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\bin\Debug\net8.0\Shopping System.runtimeconfig.json
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\bin\Debug\net8.0\Shopping System.dll
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\bin\Debug\net8.0\Shopping System.pdb
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.AssemblyInfoInputs.cache
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.AssemblyInfo.cs
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.csproj.CoreCompileInputs.cache
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.dll
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\obj\Debug\net8.0\refint\Shopping System.dll
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.pdb
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.genruntimeconfig.cache
+D:\.NET Web Devolopment\C#\Shopping System\Shopping System\obj\Debug\net8.0\ref\Shopping System.dll
